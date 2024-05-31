@@ -3,7 +3,7 @@
 
 Skills: Java / Python / Flutter / C
 
-- 💬 Ask me about Java / Python / Flutter 
+- 💬 Ask me about Java / Python / Springboot / Flutter 
 - 📫 How to reach me: ilayozdemir99@gmail.com 
 
 
