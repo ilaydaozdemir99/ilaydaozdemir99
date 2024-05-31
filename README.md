@@ -1,9 +1,9 @@
 ### Hi there 👋, I am İlayda
 #### Software Engineer
 
-Skills: Java / Python / JavaScript / Flutter / C
+Skills: Java / Python / Flutter / C
 
-- 💬 Ask me about Java / Python / JavaScript / Flutter 
+- 💬 Ask me about Java / Python / Flutter 
 - 📫 How to reach me: ilayozdemir99@gmail.com 
 
 
